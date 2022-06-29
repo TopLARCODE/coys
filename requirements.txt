@@ -23,5 +23,3 @@ pytz==2022.1
 requests==2.27.1
 rich==11.2.0
 urllib3==1.26.8
-windows-curses==2.3.0
-yarl==1.7.2
